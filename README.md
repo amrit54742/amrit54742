@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🌱 I’m currently learning **Systems**
 
-- 📫 How to reach me **amritraj5328k@gmail.com**
+<!-- - 📫 How to reach me **amritraj5328k@gmail.com** -->
 
 ## A little about me 🚀
 
