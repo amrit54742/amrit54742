@@ -12,7 +12,7 @@
 ```javascript
 const Indian = {
   pronouns: "He" | "Him",
-  code: [C++, C, Verilog, MIPS, Python, Java],
+  code: [C++, C, Verilog, MIPS, Python, Java, Rx Java],
   Utilities: [SQL, Intellij, Visual Studio, Redis Cache, OpenCV],
   Interests: ["Football", "Books"],
 }
