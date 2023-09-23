@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amrit Kumar</h1>
-<h3 align="center">A Tech Freak !</h3>
+<!-- <h3 align="center">A Tech Freak !</h3> -->
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <!-- - 🌱 I’m currently learning **Systems** -->
 
